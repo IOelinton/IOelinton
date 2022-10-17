@@ -1,7 +1,7 @@
 ### Olá, eu sou o Oelinton Araujo
 
 - 👀 Hoje estudo ADS pela ftec-bg e desenvolvimento web pela Trybe
-- 🌱 No momento estou estudando html, css, js e node.
+- 🌱 No momento estou estudando html, css, js, react, redux.
 - :grinning: Pronomes: ele/dele
 
 <div align="center">
