@@ -10,7 +10,7 @@
   Descobri uma paixão pela biblioteca de JavaScript conhecida por REACT JS, aonde me abriu os olhos para as infinitas possibilidades desta tecnologia.
 
   Atualmente, busco oportunidades que me permitam desenvolver e aprender mais sobre a área de front-end. Os campos de interesse específicos incluem desenvolvimento web e web mobile.
-  
+  </br>
   ## Ferramentas e Tecnologias
   <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" widht="60" height="60"/>
@@ -22,6 +22,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" widht="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" widht="60" height="60"/>
   </div>
+    </br>
+    </br>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOelinton)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOelinton&show_icons=true&theme=transparent)
