@@ -23,8 +23,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" widht="60" height="60"/>
   </div>
     </br>
-    </br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOelinton)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOelinton&show_icons=true&theme=transparent)
   
