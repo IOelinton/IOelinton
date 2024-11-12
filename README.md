@@ -5,11 +5,11 @@
   </div>
   </br>
   
-  Sou um desenvolvedor Front-End júnior trabalhando para entender melhor como as interfaces e experiências gráficas (UI e UX), motivam e moldam o comportamento dos usuários. Tenho experiência na área da gastronomia, aonde aprendi a importância do visual para fidelizar o consumidor final, a importância de uma boa comunicação e trabalho em equipe para desenvolver um produto(SCRUM e KANBAN) e resiliência para trabalhar em um ambiente de extrema pressão.
+  Sou um desenvolvedor Front End apaixonado por criar interfaces web dinâmicas e responsivas. Tenho sólidos conhecimentos em tecnologias como JavaScript, React, TypeScript, CSS e HTML, além de experiência com ferramentas de teste como Jest. Minha abordagem ao desenvolvimento é guiada pela busca constante de eficiência e inovação, sempre com foco na experiência do usuário.
 
-  Descobri uma paixão pela biblioteca de JavaScript conhecida por REACT JS, aonde me abriu os olhos para as infinitas possibilidades desta tecnologia.
+Minha jornada começou na confeitaria, onde aprendi a importância da atenção aos detalhes e do trabalho em equipe. Essas habilidades são agora aplicadas no desenvolvimento de soluções web eficientes. Com forte capacidade de comunicação e experiência em metodologias ágeis como SCRUM e KANBAN, estou preparado para colaborar em projetos de desenvolvimento.
 
-  Atualmente, busco oportunidades que me permitam desenvolver e aprender mais sobre a área de front-end. Os campos de interesse específicos incluem desenvolvimento web e web mobile.
+Atualmente, busco oportunidades que me permitam desenvolver e aprender mais sobre a área de front-end. Os campos de interesse específicos incluem desenvolvimento web e web mobile.
   </br>
   ## Ferramentas e Tecnologias
   <div>
