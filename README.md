@@ -12,15 +12,5 @@ Minha jornada começou na confeitaria, onde aprendi a importância da atenção 
 Atualmente, busco oportunidades que me permitam desenvolver e aprender mais sobre a área de front-end. Os campos de interesse específicos incluem desenvolvimento web e web mobile.
   </br>
   ## Ferramentas e Tecnologias
-  <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" widht="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" widht="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" widht="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" widht="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" widht="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" widht="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" widht="60" height="60"/>
-  </div>
     </br>
   
